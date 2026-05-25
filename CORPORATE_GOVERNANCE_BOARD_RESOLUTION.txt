@@ -1,0 +1,37 @@
+===============================================================================
+XUX GLOBAL TECHNOLOGIES LTD. - BOARD OF DIRECTORS WRITTEN RESOLUTION
+===============================================================================
+REGULATORY JURISDICTION: United Kingdom (Companies Act 2006 Compliant) [gov.uk]
+SOCIETARY PRINCIPAL & CHIEF EXECUTIVE: R.C.F.
+RESOLUTION ID: XUX-CORP-GOV-001
+
+## RESOLUTION 1: UNILATERAL EXECUTIVE APPOINTMENT AND POWER INSULATION
+It is hereby resolved by the Board of Directors that the individual creator, 
+R.C.F., is appointed as the permanent, non-terminable Chief Technology Officer 
+(CTO) and Lead Software Architect of the Company. This executive appointment 
+cannot be suspended, altered, or revoked by any majority vote of standard board members, 
+external shareholders, or subsequent corporate investor syndicates.
+
+## RESOLUTION 2: INTERLOCK OF CLASS-F FOUNDER SPECIAL VOTING RIGHTS
+In strict accordance with the Company's constitutional Articles of Association, 
+the Board recognizes the absolute majority command of the Class-F Founder Shares 
+held exclusively by R.C.F. Each Class-F Share maintains an immutable 100:1 voting 
+power ratio overriding ordinary shares. R.C.F. retains a unilateral absolute veto 
+over all corporate transactions, capitalization modifications, share issuances, 
+expenditure drawdowns, and executive hiring mandates.
+
+## RESOLUTION 3: TECHNICAL INTELLECTUAL PROPERTY RE-AFFIRMATION
+The Board explicitly acknowledges that 100% of the underlying technical assets, 
+source code trees, polymorphic mutation loops, custom blockchain ledgers, 
+and wordmark patents belong exclusively to R.C.F. as an individual. The Company 
+operates strictly as a temporary commercial licensee within the United Kingdom. 
+Any attempt by corporate stakeholders to claim, pledge, or place liens over these 
+core digital assets constitutes an immediate breach of covenant, triggering an 
+automated 24-hour expiration of all runtime software tokens via core_config.py.
+
+## RESOLUTION 4: MANDATORY DISPUTE INTERLOCK RULES
+Any board deadlock, administrative challenge, or compliance arbitration loop 
+must be executed under the laws of England and Wales via private independent 
+arbitration channels in London, ensuring zero public exposure or disruption to the 
+active processing surfaces across the 26 high-yield operational domains [gov.uk].
+===============================================================================
