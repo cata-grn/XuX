@@ -1,0 +1,44 @@
+===============================================================================
+XUX NETWORK SUITE - B2B ENTERPRISE SLA SERVICE CREDIT DISTRIBUTION PROTOCOL v1.0
+===============================================================================
+LEGAL STATUTE: Unfair Contract Terms Act 1977 (United Kingdom Jurisdiction) [gov.uk]
+LICENSOR: XuX GLOBAL TECHNOLOGIES LTD. / R.C.F. (Sovereign IP Owner)
+TARGET APPLICATION: Automated Service Credit Allocation & Risk Mitigation Matrix
+
+## SECTION 1: NON-CASH REMEDIATION & IN-VALUEM CALCULATION
+- In the event of a proven platform availability drop beneath the contractually 
+  stipulated 99.999% SLA uptime baseline, remedies shall be issued exclusively 
+  under the form of Service Credits.
+- Absolute Cash Isolation: Under no circumstances shall the Licensor issue cash 
+  refunds, bank transfers, or liquid asset drawdowns from the transaction pools 
+  or multi-currency matrix ledger balances.
+- Credit Scale: Service Credits are calculated as a percentage reduction applied 
+  solely to the client's subsequent monthly subscription invoice:
+  * Monthly Uptime < 99.999% but >= 99.900% ► 2.5% Monthly Tier Service Credit.
+  * Monthly Uptime < 99.900% but >= 99.000% ► 5.0% Monthly Tier Service Credit.
+  * Monthly Uptime < 99.000%                ► 10.0% Maximum Monthly Tier Service Credit.
+
+## SECTION 2: CLAIMS PROCESSING & CRYPTOGRAPHIC VERIFICATION
+- Log Submission Window: The Client must issue a written Service Credit Request 
+  within 7 calendar days of the conclusion of the calendar month in which the 
+  alleged uptime degradation occurred.
+- Verification Interlock: Uptime calculation arrays are audited automatically via the 
+  distributed serverless node telemetry logs. The request string must match the 
+  timestamp hashes logged by the database matrix ledger tracking networks.
+- Failure to submit claims within the 7-day window results in the complete, 
+  automatic waiver of all remediation rights by the Client.
+
+## SECTION 3: SYSTEM COVENANTS & INTELLECTUAL BRAND DISCONNECT
+- Service Credits shall never be used as a legal vector to offset, delay, or withhold 
+  the flat 0.05% automated blockchain ledger micro-fee collection layer.
+- Any attempt by the Client to unilaterally deduct fees or place claims over the 
+  underlying software tree or patents owned by individual inventor R.C.F. constitutes 
+  a material breach of contract.
+- Breach Consequence: Instantly triggers an automated 24-hour expiration of all 
+  active runtime software tokens via core_config.py, freezing the offending node.
+
+## SECTION 4: INTERNATIONAL SUB-LICENSE INTEGRITY
+- For international expansion corridors (EU or US corporate accounts), Service Credit 
+  disputes remain bound to this London-seated framework, preventing multi-region liability 
+  leaks and isolating core company assets under the explicit veto of R.C.F.
+===============================================================================
