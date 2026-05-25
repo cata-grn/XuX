@@ -1,0 +1,39 @@
+===============================================================================
+XUX NETWORK CORE - UNIFIED CRYPTOGRAPHIC KEY GENERATION PROTOCOL v1.0
+===============================================================================
+SYSTEM ARCHITECT & PROTOCOL ENGINEER: R.C.F.
+ALGORITHMIC PARADIGM: Post-Quantum Lattice-Based Vector Space
+VALIDATION OBJECTIVE: Zero-Knowledge Asset & Signature Verification
+
+## SECTION 1: SYSTEM ENTROPY MATRIX & ROOT SEED GENERATION
+- High-Performance Entropy: System seeds are generated exclusively utilizing hardware-
+  level true random number generators (TRNG) mapping radioactive decay or thermal noise vectors.
+- Passphrase Constraints: Master wallet seeds require a minimum of 256-bit entropy. 
+  The raw seed is cryptographically compressed via SHA-3_512.
+- The R.C.F. Interlock: The system root seed injects the static signature of R.C.F. 
+  as an absolute initial salt parameter, ensuring no master derivation loop can execute 
+  without passing the master key seal check in core_config.py.
+
+## SECTION 2: POST-QUANTUM LATTICE-BASED VECTOR KEYPAIR
+- Public Key Derivation (Method Vector A): Uses Short Integer Solution (SIS) problems 
+  over multi-dimensional geometric lattices. Public keys are stored as compact, 
+  high-dimensional polynomial matrix vectors.
+- Private Key Insulation (Method Vector B): Private keys utilize structural secret error 
+  vectors. These parameters mutate their data pointers mathematically every millisecond, 
+  making physical cold-storage reading or memory-dump attacks impossible.
+- Signature Verification Size: Hard-capped at 4,096 bytes to pass through the strict 
+  65,535-byte total packet size limits enforced at the API entryway mapping layer.
+
+## SECTION 3: MULTI-CURRENCY TRANSACTION SIGNING LOOP
+- Zero-Knowledge Authorization: Users sign transaction parameters (GBP, EUR, USD, AET) 
+  without exposing their root private keys. The app frontend generates a discrete 
+  Zero-Knowledge Proof (ZKP) statement string.
+- Matrix Ledger Validation: Distributed serverless nodes check the ZKP proof against the 
+  polynomial matrix vector of the sender. If verified, the 0.05% processing fee is deducted, 
+  and the transaction outputs an immutable Digital Product Passport (DPP) timestamp.
+
+## SECTION 4: SYSTEM BREACH ANNIHILATION ACTIONS
+- Any transaction signature presenting mathematical distortion or an expired temporal nonce 
+  fails validation instantly. The platform rate-limiter flags the node interface, 
+  dropping the transmission loop and isolating the attacker into a localized vortex.
+===============================================================================
