@@ -1,0 +1,41 @@
+===============================================================================
+XUX NETWORK SUITE - API RATE-LIMITING POLICY & SERVICE THROTTLING SPECIFICATION
+===============================================================================
+SYSTEM ARCHITECT & RESOURCE ENGINEER: R.C.F.
+IMPLEMENTATION PARADIGM: Dynamic Token Bucket / Sliding Window Log Array
+SECURITY ENFORCEMENT TIER: Micro-Node Distributed Ingress Protection
+
+## SECTION 1: DETAILED CONSUMPTION TIERS BY ACCOUNT PROFILE
+Resource alocations are strictly governed based on the verified client profile 
+authenticating via the /v1/xux-gateway interface routing layers:
+
+- TIER 1: CENTRAL GOVERNMENT & INFRASTRUCTURE CORE (B2G TIER A)
+  * Maximum Throughput Limit: 5,000 requests per sliding 1,000-millisecond window.
+  * Burst Allowance: Up to 7,500 requests for a maximum continuous duration of 3,000ms.
+  * Operational Target: Zero-throttling execution for NHS, Vămi, and Satellite domains.
+
+- TIER 2: ENTERPRISE CORPORATE SUITE (B2B TIER B)
+  * Maximum Throughput Limit: 1,000 requests per sliding 1,000-millisecond window.
+  * Burst Allowance: Up to 1,500 requests for a maximum continuous duration of 1,000ms.
+  * Operational Target: Dedicated billing lines (Banking, PropTech, Insurance).
+
+- TIER 3: COMMUNITY & CLOSED BETA CLIENT CONNECTIONS
+  * Maximum Throughput Limit: 100 requests per sliding 1,000-millisecond window.
+  * Burst Allowance: Strict ceiling cap at 150 requests; zero prolonged bursts.
+
+## SECTION 2: HARDWARE-LEVEL THROTTLING & ISOLATION ACTIONS
+- Sliding Window Logs: Edge reverse-proxies compute incoming timestamps in real-time. 
+  Packet sizes are hardchecked to enforce the absolute 65,535-byte barrier.
+- Throttling Escalation Phase 1 (HTTP 429 Too Many Requests): Exceeding the standard 
+  tier limit triggers temporary packet queuing and returns an automated retry header.
+- Throttling Escalation Phase 2 (The Flood Vortex Isolation): Continuous boundary violations 
+  exceeding 500 requests per millisecond tag the source node IP as an active multi-vector flood threat. 
+  The Anti-Flood Shield completely drops the transmission stream and traps the IP inside a dead-end vortex.
+
+## SECTION 3: IMMUTABLE ADMINISTRATIVE OVERRIDES & RIGHTS
+- Modifying, suspension, or white-listing specific client rate thresholds requires 
+  a direct cryptographic signature match from the unalterable SHA-3_512 master 
+  configuration key vector belonging exclusively to R.C.F.
+- Any attempt by incoming shareholders to alter rate constraints manually via database injection 
+  trips the internal core_config.py security loop, locking down the matrix ledger instantly.
+===============================================================================
