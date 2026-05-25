@@ -1,0 +1,42 @@
+===============================================================================
+XUX NETWORK SUITE - B2B ENTERPRISE SLA PERFORMANCE REBATE PROTOCOL v1.0
+===============================================================================
+LEGAL FRAMEWORK: Unfair Contract Terms Act 1977 (United Kingdom Jurisdiction) [gov.uk]
+LICENSOR: XuX GLOBAL TECHNOLOGIES LTD. / R.C.F. (Sovereign IP Owner)
+TARGET APPLICATION: Automated Service Performance Rebate Allocation Matrix
+
+## SECTION 1: NON-CASH ACCOUNTING ADJUSTMENTS & CREDIT TIERS
+- In the event of a documented platform service availability variance dropping below 
+  the contractually specified 99.999% SLA uptime threshold, compensation is executed 
+  strictly as non-cash subscription service rebate credits.
+- Cash Isolation Rule: Under no circumstances shall the Licensor issue cash 
+  refunds, bank transfers, or liquid asset extractions from the primary transaction 
+  pools or multi-currency matrix ledger balances.
+- Rebate Scaling Tiers: Credits are applied to the client's subsequent billing cycle:
+  * Monthly Availability < 99.999% but >= 99.900% ► 2.5% Subscription Credit Rebate.
+  * Monthly Availability < 99.900% but >= 99.000% ► 5.0% Subscription Credit Rebate.
+  * Monthly Availability < 99.000%                ► 10.0% Maximum Credit Rebate Cap.
+
+## SECTION 2: CRYPTOGRAPHIC TELEMETRY LOG VERIFICATION
+- Submission Window: The Client must lodge a formal Performance Rebate Request 
+  within 7 calendar days from the conclusion of the calendar month in question.
+- Technical Handshake Audit: The request string is validated automatically via the 
+  distributed serverless node telemetry networks, cross-referencing log blocks 
+  against the unalterable timestamp records of the matrix ledger.
+- Failure to submit within the 7-day window results in an immediate, automatic waiver 
+  of all service rebate adjustment rights by the Client.
+
+## SECTION 3: SYSTEM INTEGRITY COVENANTS & OWNER VETO RIGHTS
+- Performance credits shall never alter or delay the collection loops of the flat 
+  0.05% automated blockchain ledger transaction micro-fees.
+- Any attempt by the Client to place commercial liens or structural claims over the 
+  underlying software tree or patents owned by individual inventor R.C.F. constitutes 
+  a material breach of contract.
+- Breach Consequence: Instantly triggers an automated 24-hour expiration of all 
+  active runtime software tokens via core_config.py, freezing the offending node.
+
+## SECTION 4: INTERNATIONAL SUBSIDIARY CORRIDOR PROTECTION
+- For international expansion corridors (EU or US corporate accounts), Service Credit 
+  disputes remain bound to this London-seated framework, preventing multi-region liability 
+  leaks and isolating core company assets under the explicit veto of R.C.F. [gov.uk]
+===============================================================================
