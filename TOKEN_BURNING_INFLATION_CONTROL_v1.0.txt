@@ -1,0 +1,41 @@
+===============================================================================
+XUX NETWORK CORE - TECHNICAL TOKEN BURNING & INFLATION CONTROL PROTOCOL v1.0
+===============================================================================
+SYSTEM ARCHITECT & CHIEF TOKENOMIST: R.C.F.
+ASSET TARGET MATRIX: Aether Token (AET) Native Utility Supply
+DEFLATIONARY DESIGN: Automated Transaction-Linked Supply Combustion
+
+## SECTION 1: FIXED MAXIMUM SUPPLY CEILING & BASE EMISSION LIMITS
+- Absolute Supply Cap: The total maximum lifetime supply of Aether Tokens (AET) 
+  is hardcoded at a strict, unalterable limit of 100,000,000 tokens.
+- Genesis Mint Allocation: 100% of the initial supply configuration is locked 
+  within serverless vault arrays linked directly to core_config.py.
+- Zero Inflation Mandate: The minting function is completely deprecated and 
+  permanently disabled at code level. No new AET can ever be created, ensuring 
+  absolute long-term structural insulation from network currency dilution.
+
+## SECTION 2: AUTOMATED TRANSACTION-LINKED COMBUSTION MATRIX
+Every transaction routed across the 26 high-yield operational sectors using the 
+native AET token channel triggers an unalterable decentralized burning algorithm:
+- Surcharge Allocation: From the flat 0.05% ledger processing fee captured at the 
+  node gateway interface, exactly half (50% of the fee value) is automatically 
+  extracted in real-time.
+- Burn Routing: The extracted AET fraction is routed instantly to an unrecoverable, 
+  mathematically un-spendable null address: `xux_vault_0000000000000000000_burn`.
+- Velocity Scaling: As transaction volume climbs toward the projected £7,000,000 
+  Year 1 goal, the velocity of token contraction accelerates linearly, shrinking 
+  available market float and increasing baseline scarcity.
+
+## SECTION 3: SYSTEM INTEGRITY INTERLOCKS & OWNER PRIVILEGES
+- Modifying token combustion ratios, altering transaction fees, or accessing locked 
+  reserve vaults requires an explicit digital signature match from the unalterable 
+  SHA-3_512 master configuration key vector belonging exclusively to R.C.F.
+- Any unauthorized code modification or alternative ledger deployment attempt executed 
+  by incoming shareholders automatically trips the internal core_config.py validation 
+  loop, executing an immediate global node freeze within 24 hours.
+
+## SECTION 4: LOCAL CACHE FILTER STAGING BOUNDARIES
+- Tokenomics test run logs, transaction simulation caches, and local configuration 
+  variable variables must be completely ignored by the main branch tree, following 
+  the strict repository exclusion rules hardcoded in the .gitignore manifest file.
+===============================================================================
