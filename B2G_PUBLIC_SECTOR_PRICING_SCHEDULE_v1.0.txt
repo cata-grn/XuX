@@ -1,0 +1,43 @@
+===============================================================================
+UK CROWN COMMERCIAL SERVICE (CCS) - G-CLOUD OFFICIAL PRICING SCHEDULE v1.0
+===============================================================================
+PLATFORM IDENTIFIER: XuX Sovereign Network Suite (SaaS Software Tier)
+AUTHOR & MATRICE DESIGNER: R.C.F.
+GOVERNMENT PROCURE TIERS: Fixed Framework Pricing (All values in GBP £)
+
+## SECTION 1: CORE ENTERPRISE SUBSCRIPTION TIERS (MUNICIPAL & GOVERNMENT)
+The following flat-rate subscription models apply to all UK Central Government 
+Departments, National Health Service (NHS) trusts, and Local Authorities:
+
+- TIER A (National / Central Government Infrastructure Core):
+  * Scope: Full deployment across critical infrastructure sectors (e.g., Vămi, NHS).
+  * Price Vector: £20,000 per month (£240,000 per annum) flat-rate fee.
+  * Inclusions: Unrestricted serverless node allocation, 99.999% SLA guarantee.
+- TIER B (Regional / Municipal & Local Authority Matrix):
+  * Scope: Isolated regional deployment (e.g., Gov-Vote municipal polling).
+  * Price Vector: £5,000 per month (£60,000 per annum) flat-rate fee.
+  * Inclusions: Static up-time tracking, 24/7 self-healing automated hot-swaps.
+
+## SECTION 2: AUTOMATED TRANSACTION LEDGER MICRO-FEES
+In addition to the fixed subscription, any transaction or cryptographic asset 
+settlement routing through the four native asset pools (GBP, EUR, USD, AET) 
+is assessed an automated execution surcharge:
+- Network Ledger Fee Rate: Fixed at 0.05% per processed transaction volume.
+- Settlement Protocol: Fee is split and deducted instantly at the node level, 
+  bypassing traditional clearing house overheads.
+- Compliance Inclusions: Real-time automated fiscal audit trail and generation 
+  of immutable Digital Product Passport (DPP) timestamp records [gov.uk].
+
+## SECTION 3: DEPLOYMENT, SET-UP AND PROFESSIONAL SERVICES
+- Initial Core System Onboarding: £0 (Zero cost setup covered by public grant R&D).
+- Custom Sector Interface Mapping: Fixed at £1,200 per developer day.
+- Academic/Vulnerability Support Add-on: Provided at £0 cost under the terms of the 
+  approved UK University independent verification sponsor framework.
+
+## SECTION 4: FINANCIAL INTEGRITY AND REPOSITORY CANCELLATION RULES
+All public procurement cycles must execute using this unalterable schedule. 
+The technology stack and price book remain under the non-dilutable ownership 
+privileges of the individual creator, R.C.F. Any attempt by purchasing 
+consortiums to manipulate prices or clone the core system triggers an automated 
+24-hour expiration of all sub-licenses via core_config.py.
+===============================================================================
