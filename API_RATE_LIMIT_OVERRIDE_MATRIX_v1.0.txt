@@ -1,0 +1,43 @@
+===============================================================================
+XUX NETWORK SUITE - API RATE-LIMITING POLICY OVERRIDE MATRIX v1.0
+===============================================================================
+SYSTEM ARCHITECT & EDGE SECURITY ENGINEER: R.C.F.
+ROUTING MANAGEMENT: Secure Ingress Trust Elevation Whitelisting
+COMPLIANCE GATEWAY: UK Cyber Essentials Plus Infrastructure Sanity Controls
+
+## SECTION 1: SYSTEM OVERRIDE TIERS & CRITICAL BYPASS MATRIX
+Temporary trust escalation or rate-limiting bypass rules applied across the /v1/xux-gateway 
+must validate through strict cryptographic constraints:
+
+- OVERRIDE TIER 1: CRITICAL CNI EMERGENCY OVERRIDE (NATIONAL SCALE)
+  * Authorized Vectors: NHS Emergency Crisis Logistics or Civil Aviation Routing.
+  * Ceiling Adjustment: Elevates ingress boundary limits to UNRESTRICTED for a maximum 
+    continuous sliding window of 60 minutes.
+  * Verification Link: Requires active hardware token confirmation synced directly with 
+    the core configuration master engine.
+
+- OVERRIDE TIER 2: B2B HIGH-VELOCITY SETTLEMENT CLEARANCE
+  * Authorized Vectors: High-Value Open Banking or Inter-Bank Fiat Settlements (>£500,000).
+  * Ceiling Adjustment: Elevates baseline limits up to 10,000 requests per sliding 1,000ms window.
+  * Duration Cap: Enforces automated expiration after 15 minutes, resetting keys to standard tier weights.
+
+## SECTION 2: ANTI-FLOOD VECTOR INTERLOCKS & LOCKOUT PROTECTION
+- Zero Wildcard Policies: System explicitly rejects static, perpetual wildcard (`*`) IP whitelist rules. 
+  All override permissions require dynamic temporal nonces linked to core_config.py.
+- Instant Violation Purging: If an elevated or white-listed client node pushes packet payloads 
+  breaching the 65,535-byte wall, the elevated status is revoked within 1 millisecond.
+- Enforcement Action: The Anti-Flood Shield completely drops the transmission stream and traps 
+  the source tracking IP inside a dead-end vortex, logging unique DPP timestamp records.
+
+## SECTION 3: IMMUTABLE MASTER OVERRIDES & OWNER PRIVILEGES
+- Activating an override configuration, configuring whitelist thresholds, or resetting isolated 
+  vortex nodes requires a direct cryptographic signature match from the unalterable 
+  SHA-3_512 master configuration key vector belonging exclusively to R.C.F.
+- Any unauthorized societary intervention or database injection attempt executed by incoming investors 
+  trips the internal core_config.py security loop, locking down the matrix ledger instantly.
+
+## SECTION 4: LOCAL CONFIGURATION FILTER BOUNDARIES
+- Whitelist diagnostic logs, network routing caches, transit testing variables, and local developer 
+  environment variable parameters are completely excluded from push operations, following the strict 
+  exclusion filters hardcoded inside the repository's active .gitignore template file.
+===============================================================================
