@@ -1,0 +1,41 @@
+===============================================================================
+UK NCSC CYBER ESSENTIALS PLUS - ANNUAL PENETRATION TESTING SCOPE BRIEF v1.0
+===============================================================================
+PLATFORM IDENTIFIER: XuX Sovereign Network Suite (SaaS Infrastructure Core)
+LEAD SECURITY COMPLIANCE DESIGNER: R.C.F.
+AUDIT STANDARD: NCSC Infrastructure Assessment Vulnerability Standards [gov.uk]
+
+## SECTION 1: AUTHORIZED SIMULATION TARGETS & CODE SURFACES
+Certified external testing operators are granted strict, sandboxed authorization 
+to simulate aggressive exploitation techniques against the following layers:
+- TARGET A (The Gateway Edge Proxy): Probing the /v1/xux-gateway connection rails 
+  to attempt parameter injection, path traversal, or configuration overrides.
+- TARGET B (The Anti-Flood Limiter): Executing multi-vector DDoS flood bursts 
+  seeking to force memory starvation or node dropouts across active sectors.
+- TARGET C (The Matrix Ledger Ledger): Attempting transaction string manipulation or 
+  malicious code injections inside the multi-currency asset channels (GBP, EUR, USD, AET).
+
+## SECTION 2: FORBIDDEN ATTACK SURFACES & INSULATION PARAMETERS
+To protect the unyielding core technology developed by solo founder R.C.F., 
+assessors must operate under absolute boundary constraints:
+- NO CODE TREE MODIFICATION: Penetration tools are strictly blocked from editing, 
+  writing, or altering files inside the live production branch trees.
+- ZERO REVERSE-ENGINEERING: Testing parameters prohibit attempting reverse-
+  engineering of the millisecond polymorphic memory mutation loops.
+- AUDIT ACCESS BOUNDARY: Assessment teams operate via secure Read-Only, View-Only 
+  repository configurations, checked automatically via the security_shield.yml workflow.
+
+## SECTION 3: BREACH REACTION & SYSTEM INTEGRITY OVERRIDES
+- Any tool execution matching real-world exploitation behaviors or violating packet 
+  overhead limits (>65,535 bytes) engages the Anti-Flood Shield instantly.
+- System Action: Ingress routing channels are dropped, and tracking IPs are 
+  trapped within the dead-end network vortex, logging unique DPP timestamp codes.
+- Emergency Overrides: Altering test boundaries or resetting isolated simulation 
+  nodes requires signature matching from the unalterable SHA-3_512 master 
+  configuration key vector belonging exclusively to R.C.F.
+
+## SECTION 4: LOCAL CONFIGURATION FILTERS & WORKSPACE EXCLUSIONS
+- Penetration run logs, exploit testing footprints, and local cache artifacts 
+  compiled during the assessment must be completely ignored by push routines, 
+  following the strict exclusion filters hardcoded in the .gitignore manifest file.
+===============================================================================
