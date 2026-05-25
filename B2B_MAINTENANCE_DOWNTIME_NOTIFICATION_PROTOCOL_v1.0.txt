@@ -1,0 +1,38 @@
+===============================================================================
+XUX NETWORK SUITE - B2B MAINTENANCE DOWNTIME NOTIFICATION PROTOCOL v1.0
+===============================================================================
+LEGAL FRAMEWORK: Unfair Contract Terms Act 1977 & CCS G-Cloud Framework [gov.uk]
+LICENSOR: XuX GLOBAL TECHNOLOGIES LTD. / R.C.F. (Sovereign IP Owner)
+TARGET APPLICATION: Mandatory Scheduled Maintenance Notification & SLA Insulation
+
+## SECTION 1: MANDATORY ADVANCE NOTICE WINDOWS & SCHEDULING
+To maintain the guaranteed 99.999% platform availability surface, scheduled system 
+optimizations or non-emergency core adjustments must adhere to strict parameters:
+- Standard Maintenance Window: Minimum of 7 calendar days advance written notice 
+  must be broadcast to all corporate client contacts via automated API endpoints.
+- Permitted Execution Window: Maintenance tasks must execute strictly during low-traffic 
+  diurnal frames (01:00 to 04:00 GMT) to preserve multi-currency settlement rails.
+- Duration Constraint: No individual scheduled maintenance operation shall cause a continuous 
+  data pathway block exceeding a maximum window of 15 minutes per calendar month.
+
+## SECTION 2: AUTOMATED MICRO-NODE COORDINATE SHIFTING
+- Seamless Failover Routing: Prior to executing updates, serverless architecture vectors 
+  automatically shift live transactional streams to secondary mirroring node lattices.
+- Zero-Downtime Migration: Transactions running concurrently in GBP, EUR, USD, and AET 
+  across the 26 industrial sectors route away from targeted nodes dynamically, avoiding 
+  system latency spikes or clearing data bottlenecks.
+- Verification Interlock: Migrated node instances are checked automatically via the 
+  core_config.py integrity loop, validating the unalterable SHA-3_512 master signature vector.
+
+## SECTION 3: EMERGENCY EXCLUSIONS & FORCE MAJEURE INSULATION
+- Critical Security Overrides: Sudden vulnerability patches mandated under NCSC post-audit 
+  remediation frameworks (CVSS score >= 7.0) are completely exempt from the 7-day rule [gov.uk].
+- Threat Shield Mitigation: Emergency node lockouts triggered during active multi-vector DDoS 
+  or packet flood vector interventions are defined legally as Force Majeure. 
+- Liability Protection: These actions do not count toward client service credit rebate allocations.
+
+## SECTION 4: LOCAL CONFIGURATION FILTER BOUNDARIES
+- Maintenance logs, deployment scripts, serverless run caches, and development environment 
+  variable metrics are completely filtered from push operations, following the strict 
+  exclusion filters hardcoded inside the repository's active .gitignore template file.
+===============================================================================
