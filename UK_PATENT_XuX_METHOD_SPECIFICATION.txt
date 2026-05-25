@@ -1,0 +1,47 @@
+===============================================================================
+UK INTELLECTUAL PROPERTY OFFICE (UKIPO) - PATENT SPECIFICATION CLAIMS
+===============================================================================
+INVENTOR & SOVEREIGN OWNER: R.C.F.
+ASSIGNEE ENTITY: XuX GLOBAL TECHNOLOGIES LTD. (In formation)
+TECHNICAL FIELD: Post-Quantum Cryptography & Serverless Network Security
+
+## FIELD OF THE INVENTION
+This invention relates to a non-open-source, serverless computing ecosystem 
+designed to protect and scale multi-currency transaction rails across 26 discrete 
+industrial and critical infrastructure vectors. Specifically, it provides a 
+dynamic defensive paradigm that eliminates static attack surfaces in real-time.
+
+## BACKGROUND AND PROBLEM STATEMENT
+Traditional networks utilize static routing ports and persistent cryptographic 
+keys, creating vulnerabilities that zero-day exploits and high-volume multi-vector 
+DDoS/Flood attacks can target. Prior arts lack automated mechanisms capable of 
+mutating code execution environments without disrupting live transactional streams.
+
+## SUMMARY AND DETAILED METHOD STATEMENT
+The present invention solves these limitations through a computer-implemented 
+method executing a dynamic time-stamped mutation loop vector:
+
+- METHOD VECTOR A (Polymorphic Mutation): The architecture automatically alters 
+  internal code compilation registries, operational function pointers, and system 
+  memory allocation parameters every single millisecond. The shift relies on secure 
+  atomic time-stamps, making the runtime memory topology untraceable to reverse-
+  engineering or unauthorized cloning attempts.
+- METHOD VECTOR B (Zero-Knowledge Rate-Limiting): A distributed hardware-level 
+  Rate-Limiter screens incoming packet headers using Zero-Knowledge Proofs (ZKP). 
+  Any connection sequence exceeding 65,535 bytes or breaching a frequency of 500 
+  requests per millisecond is isolated. The thread is seamlessly rerouted into a 
+  localized network dead-end vortex, securing a 100% active primary network surface.
+- METHOD VECTOR C (Multi-Asset Blockchain Matrix): A custom-built matrix blockchain 
+  natively routes and executes micro-transactions in GBP, EUR, USD, and Aether Tokens 
+  (AET), processing a flat 0.05% ledger micro-fee while generating immutable 
+  Digital Product Passport (DPP) timestamp validations.
+
+## INDEPENDENT PATENT CLAIMS FOR PROTECTION
+1. A computer-implemented cryptographic method for runtime data insulation 
+   characterized by a millisecond-level software memory and registry structure mutation.
+2. A defensive framework according to claim 1, wherein malicious traffic floods 
+   are automatically isolated and captured using distributed ZK-Proof rate limiters.
+3. A network infrastructure according to claim 1, wherein the entire runtime state 
+   is interlocked with a hardcoded SHA-3_512 master configuration key assigned to the 
+   founder, R.C.F., requiring unilateral veto validation for technical deployment.
+===============================================================================
