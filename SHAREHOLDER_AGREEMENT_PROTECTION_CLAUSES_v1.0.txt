@@ -1,0 +1,40 @@
+===============================================================================
+XUX GLOBAL TECHNOLOGIES LTD. - SHAREHOLDER AGREEMENT PROTECTION CLAUSES v1.0
+===============================================================================
+REGULATORY FRAMEWORK: Companies Act 2006 (United Kingdom Jurisdiction) [gov.uk]
+SOVEREIGN FOUNDER & PRINCIPAL: R.C.F.
+TARGET APPLICATION: Mandatory Investor Synergy Binding Matrix
+
+## SECTION 1: ANTI-DILUTION PROTECTION & PRE-EMPTIVE PRIVILEGES
+- The equity percentage and command footprint allocated to the Class-F Founder 
+  Shares held exclusively by R.C.F. shall remain permanently non-dilutable. 
+- Any subsequent seed funding, venture rounds, or corporate equity expansions 
+  will automatically issue compensatory shares to R.C.F. at zero cost, maintaining 
+  his voting block at its absolute initial command state.
+- Ordinary Shareholders (Angel Investors) explicitly waive standard drag-along 
+  rights that could compel R.C.F. to participate in an unapproved corporate sale.
+
+## SECTION 2: IRREVOCABLE EXECUTIVE APPOINTMENT AND BOARD CONTROL
+- The position of Chief Technology Officer (CTO) and Lead Software Architect 
+  is held non-terminably by R.C.F. The Board of Directors holds zero legal 
+  authority to remove, suspend, or restrict R.C.F. from operational commands.
+- The company's technical runway remains under the unilateral oversight of the 
+  founder, bypassing traditional split-vote board deadlocks.
+
+## SECTION 3: INTELLECTUAL PROPERTY COVENANTS & REPRIMAND LIMITS
+- Incoming shareholders acknowledge that the company operates as a technical 
+  licensee of the XuX suite. The core source code tree, polymorphic loops, 
+  and ledger logic belong 100% to R.C.F. as an individual.
+- The firm is explicitly blocked from assigning, pledging, or placing any 
+  corporate lien over the technology assets to secure loans or debt financing.
+- Any shareholder alliance attempting to alter this covenant will cause the 
+  immediate expiration of all active software deployment tokens within 24 hours, 
+  activating the core_config.py global node lock.
+
+## SECTION 4: DISPUTE ARBITRATION & EXCLUSION OF CLAIMS
+- Any corporate deadlock, valuation dispute, or structural disagreement among 
+  shareholders must be settled via independent arbitration under the laws of 
+  England and Wales [gov.uk]. 
+- Shareholders waive all rights to pursue litigation that disrupts the active 
+  processing layers of the 26 industrial and infrastructure sectors.
+===============================================================================
