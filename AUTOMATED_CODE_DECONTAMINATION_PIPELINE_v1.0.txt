@@ -1,0 +1,41 @@
+===============================================================================
+XUX NETWORK CORE - AUTOMATED CODE DECONTAMINATION & REGRESSION PIPELINE v1.0
+===============================================================================
+SYSTEM ARCHITECT & AUTOMATION DIRECTOR: R.C.F.
+ORCHESTRATION PROFILE: Stateless Isolation & Automated Rollback Vector
+COMPLIANCE GATEWAY: UK Cyber Essentials Plus Infrastructure Sanity Checks
+
+## SECTION 1: REGRESSION TRACKING & DECONTAMINATION TRIGGERS
+The continuous deployment workspace utilizes an automated compilation scan 
+to intercept code instability before it touches live multi-currency nodes:
+
+- TRIGGER A: Third-Party Code Injection Detection
+  * Metric: Scanning code revisions for external software libraries or frameworks.
+  * System Reaction: Triggers immediate pipeline failure. The workflow completely 
+    purges the unstable commit tree and strips the workspace back to zero state.
+- TRIGGER B: Architectural Boundary Latency Degrades
+  * Metric: Telemetry checks showing execution speeds dropping past 400ms.
+  * System Reaction: Isolates the targeted update branch into a closed sandbox, 
+    halting main branch deployment.
+
+## SECTION 2: THE IMMUTABLE DECONTAMINATION PROCESS FLOW
+When a security exception or structural regression fires, the pipeline executes 
+an automated clean-up routing without requiring manual system administration:
+- Step 1 (Branch Freezing): Blocks any secondary commit actions onto the workspace tree.
+- Step 2 (Atomic Reversion): Reverts the active branch head back to the last known 
+  100% stable transaction stamp hash, verified by the security_shield.yml workflow.
+- Step 3 (Cache Evacuation): Flushes volatile RAM compiler buffers, completely 
+  erasing all temporary build files, test results, and transient code footprints.
+
+## SECTION 3: IMMUTABLE MASTER OVERRIDES & RIGHTS
+- Re-initializing the compilation layers, bypassing a decontamination tripwire, 
+  or forcing a branch push requires a direct digital signature match from the 
+  unalterable SHA-3_512 master configuration key vector belonging exclusively to R.C.F.
+- Any unauthorized structural modification attempt executed by incoming investors 
+  aborts processing instantly, triggering an absolute network freeze.
+
+## SECTION 4: LOCAL CONFIGURATION FILTER BOUNDARIES
+- Pipeline run logs, compiler debug traces, staging snapshot data, and local developer 
+  environment variable parameters are completely excluded from push operations, following 
+  the strict exclusion rules hardcoded inside the repository's active .gitignore template file.
+===============================================================================
