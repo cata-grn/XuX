@@ -1,0 +1,55 @@
+===============================================================================
+XUX NETWORK CORE - RELATIONAL DATABASE SCHEMA AND BLOCKCHAIN LEDGER MATRIX
+===============================================================================
+SYSTEM ARCHITECT & CHIEF ENGINEER: R.C.F.
+DATA MODEL TYPE: High-Performance Serverless Distributed Matrix Tuple
+ENCRYPTION PARADIGM: Zero-Dependency Lattice-Based Polymorphic Envelope
+
+## TABLE 1: MASTER_FOUNDER_KEYS (Immutable System Root Boundary)
+Columns:
+- founder_id          : UUID (Primary Key, Hardcoded Binary String)
+- master_hash_sha3    : CHAR(128) (Static Signature Match Vector: R.C.F.)
+- dynamic_temporal_iv : BINARY(32) (Alters cryptographically every millisecond)
+- veto_weight_ratio   : INT (Hardcoded Default Value: 100)
+- operational_status  : VARCHAR(32) (Default: SOVEREIGN_OWNER_ACTIVE)
+Constraints:
+- UNIQUE(master_hash_sha3)
+- Check Constraint: Only processes execution vectors if master_hash_sha3 matches R.C.F.
+
+## TABLE 2: SECTOR_DOMAINS_MATRIX (The 26 Compliant Operational Sectors)
+Columns:
+- sector_id           : INT (Primary Key, Range: 1 to 26)
+- sector_name         : VARCHAR(64) (e.g., NHS_HEALTH, FINTECH_SETTLEMENT, PROPID)
+- domain_routing_hash : CHAR(64) (Dynamic cryptographic time-stamped network vector)
+- compliance_status   : VARCHAR(32) (CYBER_ESSENTIALS_PLUS_VALIDATED)
+- encryption_tier     : VARCHAR(32) (POST_QUANTUM_LATTICE_ENVELOPE)
+
+## TABLE 3: TRANSACTION_SETTLEMENT_POOL (Multi-Currency Vault Tracking)
+Columns:
+- tx_id               : CHAR(64) (Primary Key, BLAKE2b Hash Array)
+- origin_node_ip      : VARCHAR(45) (ZKP Obfuscated Network Pointer)
+- destination_address : VARCHAR(64) (Target Vault Wallet Receiver)
+- asset_class         : ENUM('GBP', 'EUR', 'USD', 'AET') (Natively managed channels)
+- gross_amount        : DECIMAL(24, 8) (Absolute mathematical balance transaction)
+- micro_fee_deducted  : DECIMAL(24, 8) (Automated 0.05% ledger processing fee)
+- digital_passport_id : CHAR(64) (Foreign Key pointing to Digital Product Passport)
+- timestamp_ns        : BIGINT (Atomic Time Vector synchronization index)
+
+## TABLE 4: DIGITAL_PRODUCT_PASSPORTS (Unalterable Asset Compliance Records)
+Columns:
+- passport_id         : CHAR(64) (Primary Key, SHA-3_256 Unique Identifier)
+- sector_id           : INT (Foreign Key referencing SECTOR_DOMAINS_MATRIX)
+- carbon_asset_index  : DECIMAL(12, 4) (Real-time ecological footprint audit record)
+- material_source_id  : VARCHAR(128) (Cryptographically verified origin manifest)
+- compliance_stamp    : VARCHAR(64) (Default: 100_PERCENT_LEGAL_COMPLIANT)
+- owner_verification  : TEXT (Signed via user's private ZK key)
+
+## TABLE 5: ANTI_FLOOD_SHIELD_REGISTRY (Dynamic System Defense Log)
+Columns:
+- threat_id           : UUID (Primary Key)
+- offender_ip_address : VARCHAR(45) (Isolated malicious origin)
+- request_frequency   : INT (Packets captured per millisecond window)
+- packet_payload_size : INT (Hard checked limit constraint: max 65,535 bytes)
+- enforcement_action  : VARCHAR(32) (Default: PERMANENT_BAN_VORTEX)
+- activation_time     : TIMESTAMP (Instant mitigation log entry)
+===============================================================================
