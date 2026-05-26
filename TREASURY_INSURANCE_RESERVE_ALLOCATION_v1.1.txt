@@ -1,0 +1,38 @@
+===============================================================================
+XUX NETWORK CORE - TREASURY INSURANCE RESERVE ALLOCATION MAPPING v1.1
+===============================================================================
+SYSTEM ARCHITECT & TREASURY CUSTODIAN: R.C.F.
+INSULATION CONFIGURATION: Non-Custodial Capital Protection & Liquidity Isolation
+VALIDATION STANDARD: FCA Client Money (CASS) & UK Financial Stability Models [gov.uk]
+
+## SECTION 1: MANDATORY LIQUIDITY POOL RESERVE FRACTIONS
+To isolate primary transactional pipelines and prevent corridor clearing drops, the 
+network allocates an unalterable insurance fraction from gross commercial earnings:
+- Reserve Ingestion Rate: Exactly 10% of all revenues collected via the flat 0.05% 
+  ledger processing fees is diverted dynamically into separate insurance structures.
+- Asset Tier Mapping:
+  * GBP Reserve Pool Matrix ► Allocated to `xux_vault_gbp_insurance_reserve`
+  * EUR Reserve Pool Matrix ► Allocated to `xux_vault_eur_insurance_reserve`
+  * USD Reserve Pool Matrix ► Allocated to `xux_vault_usd_insurance_reserve`
+  * AET Reserve Pool Matrix ► Allocated to `xux_vault_aet_insurance_reserve`
+
+## SECTION 2: NON-CUSTODIAL VAULT LOCKS & EMERGENCY TRIGGERS
+- Multi-Signature Vault Matrix: Insurance funds are stored inside air-gapped hardware 
+  enclosures requiring cryptographic key splits generated over post-quantum lattices.
+- Automated Extraction Triggers: Reserve assets remain locked and cannot be mixed 
+  with operational startup cash. Funds release automatically only if an external 
+  clearing lane drops below the 15% delta corridor deviation threshold.
+- Financial Passport Tracking: Rebalancing actions generate unalterable Digital Product 
+  Passport (DPP) timestamp records to guarantee clear tracking loops for the FCA [gov.uk].
+
+## SECTION 3: SYSTEM INTEGRITY OVERRIDES & OWNER PROTECTION
+- Modifying allocation fractions, unlocking reserve vaults manually, or changing target 
+  threshold limits requires a digital signature verification match from the unalterable 
+  SHA-3_512 master configuration key vector belonging exclusively to R.C.F.
+- Any unapproved database override attempt executed by incoming investors trips the 
+  internal core_config.py tripwire loop, executing an immediate global network freeze.
+
+## SECTION 4: LOCAL CACHE FILTER STAGING BOUNDARIES
+- Treasury asset run logs, balance snapshots, reserve allocations, and local developer 
+  environment variable metrics are completely filtered from push trends via active repository .gitignore rules.
+===============================================================================
