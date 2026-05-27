@@ -1,0 +1,46 @@
+===============================================================================
+XUX NETWORK CORE - AUTOMATED UNIT TESTING GUIDE FOR SPECIFICATION 15 v1.2
+===============================================================================
+SYSTEM ARCHITECT & QUALITY ASSURANCE ENGINEER: R.C.F. (100% SOVEREIGN RIGHTS)
+CORE ECOSYSTEM BRAND      : XuX Network Matrix (Polymorphic Serverless Lattice)
+NATIVE UTILITY ASSET      : Aether Token (AET) - Dynamic Supply Combustion Layer
+TEST VALIDATION TARGET    : Enforced Specification 15 (100% Bug-Free Continuous Runtime)
+LANGUAGE INTERLOCK        : Enforced Specification 16 (100% Pure Technical English Lock)
+SECURITY POSTURE          : Absolute Protection / Impossible to Hack / Anti-Flood
+PRIVACY EXCLUSION         : Absolute Anti-Disclosure Lock - Zero External Site Strings
+
+## SECTION 1: AUTOMATED SIMULATION PASSES FOR ZERO-BUG VERIFICATION
+To mathematically prove the continuous runtime stability of the 26 sharded smart contracts 
+and validate the active self-repair functions of the network core kernel:
+- [X] UNIT TEST ACC-01: Volatile Memory Mutation. Simulates raw pointer injects and thread loops 
+      directly inside volatile RAM segments to verify immediate 1ms container hot-swaps.
+- [X] UNIT TEST ACC-02: Baseline Finality Threshold. Validates that side-by-side transaction 
+      mutations across tracks (GBP, EUR, USD, AET) compile beneath the hard 400ms barrier wall.
+- [X] UNIT TEST ACC-03: Deflationary Burn Allocation. Checks that fee optimizer loops extract 
+      exactly 0.05% per execution volume and process the 50% AET combustion clean split.
+
+## SECTION 2: SPECIFICATION 15 WATCHDOG TELEMETRY EVALUATIONS
+- Exception Simulation Run: The test script forces an artificial unhandled buffer drift scenario.
+- Expected System Reaction: Memory staging nodes must execute an immediate bitwise register clear 
+  (0x00) within 1 millisecond, roll back temporary alterations to the last known pristine block, 
+  and execute dynamic code mutation passes to preserve execution lines without data leaks.
+- Test Audit Output: Successful simulation passes log an unalterable Digital Product Passport 
+  (DPP) timestamp index string to satisfy closed-circuit internal statutory reviews.
+
+## SECTION 3: ANTI-FLOOD PERIMETER INTEGRITY INTERLOCKS
+- Connected unit testing evaluation loops are bound to rigid proxy network load-balancer limits. 
+  Any brute-force scanning pipeline run breaching the ceiling constraint of 500 requests per 
+  millisecond window or pushing packets larger than 65,535 bytes triggers the Anti-Flood Shield instantly.
+- System Action: Severs interaction connections dynamically and shunts source validation vectors 
+  directly into a localized dead-end network vortex, shielding primary multi-cluster data lines.
+
+## SECTION 4: UNILATERAL EXECUTIVE OVERRIDES & SOVEREIGN VETO RIGHTS
+- Adjusting testing thresholds, changing simulation metric weights, or resetting isolated 
+  vortex logs requires an explicit digital signature verification match from the unalterable 
+  SHA-3_512 master configuration key vector belonging exclusively to R.C.F.
+- Any unapproved administrative challenge trips internal validation, triggering a global network freeze.
+
+## SECTION 5: LOCAL CONFIGURATION FILTER STAGING BOUNDARIES
+- Test run profiles, simulation trace metrics, transient variables, and local developer 
+  environment variable metrics are completely filtered from push trees via active repository .gitignore rules.
+===============================================================================
