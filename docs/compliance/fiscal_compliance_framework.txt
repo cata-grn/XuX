@@ -1,0 +1,8 @@
+SOVEREIGN COMMERCIAL PROPRIETARY LICENSE
+Project: XuX Project (Sovereign Polymorphic Multi-Currency Network)
+Chief Architect & Sovereign Owner: RCF
+All Rights Reserved (C) 2024-2026
+
+1. INTELLECTUAL PROPERTY NOTICE: This repository, its entire architectural design, source code, files, modules, and associated documentation are the exclusive, sovereign intellectual property of the Owner (RCF).
+2. RESTRICTIONS: Strict private enterprise configuration. Any copying, redistribution, reverse engineering, cloning, decompilation, or modification of this source code, in whole or in part, is strictly prohibited without explicit, verifiable written consent from the Sovereign Owner.
+3. ANTI-PIRACY ENFORCEMENT: Access to this repository is bound by strict handshake protocols. Any unauthorized structural testing, modification, or leaking of these assets triggers the core security defense systems, terminating production instances immediately to protect proprietary trade secrets.
