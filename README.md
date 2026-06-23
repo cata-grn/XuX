@@ -77,3 +77,16 @@ UK public grant checkers, university software inspectors, and approved Angel tec
 
 ***
 *System Security Shield Active via Automated GitHub Workflow (`security_shield.yml`).*
+## 🚀 Instalare și Execuție
+
+Pentru a rula prototipul local, aveți nevoie de Python 3.10+.
+
+1. Clonați repository-ul:
+   git clone https://github.com[restul-linkului-tau]
+   cd nume-proiect
+
+2. Instalați dependențele:
+   pip install -r requirements.txt
+
+3. Rulați nucleul tehnic:
+   python main.py
